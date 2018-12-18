@@ -1,4 +1,4 @@
 # Malhas territoriais IBGE
-Download das bases territoriais(shp) do IBGE disponíveis em:
+Download das malhas territoriais(shp) do IBGE para todo o Brasil, disponíveis em:
 
 https://downloads.ibge.gov.br/downloads_geociencias.htm
